@@ -178,6 +178,8 @@ sh jadwal-sholat.sh
     		git clone https://github.com/soracyberteam/simeky-bot
     		cd simeky-bot
     		php meky.php
+      
+      ;;
 
     		11) echo "BYE BYE PARA HEKER,INCARLAH SESUATU YG MUSTAHIL" | lolcat
 exit
