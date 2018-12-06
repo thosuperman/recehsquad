@@ -83,7 +83,7 @@ echo -e $b "7. PP GUARD${enda}";
 echo -e "============================" | lolcat
 echo -e $b "8. BOT PIVOT${enda}";
 echo -e "============================" | lolcat
-echo -e $b "9. JADWAL SHOLAT${enda}";
+echo -e $b "9. JADWAL SHOLAT(error)${enda}";
 echo -e "============================" | lolcat
 echo -e $b "10. GELUD KUYY${enda}";
 echo -e "============================" | lolcat
